@@ -1,9 +1,9 @@
 # 💫 Sobre mim:
 # Eai, tranquilo? 👋<br> 
 ## Meu nome é Lucas e este é o meu perfil no GitHub<br>
-- Sou estudante de bacharelado de ciência da computação em busca de um emprego.<br>
+- Sou estudante de bacharelado de ciência da computação e sonho em atuar na área da tecnologia.<br>
 - Atualmente estou aprendendo algumas disciplinas no meu curso de BCC, sendo eles: Banco de dados, estrutura de dados e POO.<br>
-- Estou em busca do meu primeiro emprego e uma chance de trabalhar na área de TI no futuro, enquanto isso, dedico meu tempo em estudos e meus hobbies.<br>
+- Atuo como jovem aprendiz na Dexco e busco uma chance de trabalhar na área de TI no futuro, enquanto isso, dedico meu tempo em estudos e meus hobbies.<br>
 - Moro em São Paulo, Brasil
 
 ## 🌐 Redes Sociais:
